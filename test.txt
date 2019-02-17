@@ -1,0 +1,2 @@
+See if we can add a new file to the repository all from commandline
+also hopefully committing with correct author name now.
